@@ -1,16 +1,7 @@
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="notionopenai-dark.png"/>
-    <source media="(prefers-color-scheme: light)" srcset="notionopenai.png"/>
-    <img width="400" src="images/ResumeGPT.png"/>
- <br />
-</h1>
-
-
 # OpenAI Embeddings in Notion
 ---
 
-This repo will guide you you through the creation of a Notion chatbot utilizing a blend of LangChain, OpenAI, FAISS, and Streamlit!
+My recent endeavors have revolved around Large Language Models (LLMs), a journey enriched by the communal sharing of insights and discoveries online. I'm thrilled to share my expertise by guiding you through the creation of a Notion chatbot utilizing a blend of LangChain, OpenAI, FAISS, and Streamlit!
 
 
 ## The Concept Behind a Notion Chatbot
